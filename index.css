@@ -4,6 +4,7 @@
 
 body {
     margin: 0;
+    background-image: linear-gradient(to right, #00182b, #00060b);
 }
 
 div {
