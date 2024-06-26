@@ -22,3 +22,4 @@ function updateLayout() {
 }
 
 window.addEventListener("resize", updateLayout)
+window.addEventListener("load", updateLayout)
